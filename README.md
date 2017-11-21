@@ -1,2 +1,2 @@
-# kotlin-data-science-resources
-Libraries, media, links, and other resources to use Kotlin for data science
+# Kotlin Data Science Resources
+### Libraries, media, links, and other resources to use Kotlin for data science
