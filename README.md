@@ -19,5 +19,9 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 
 # Resources for Kotlin Developers to Learn Data Science
 
+|Name|Media|Description|
+|---|---|---|
+|[Python for the Busy Java Developer](https://gumroad.com/l/py4java)|eBook|Helpful resource for Java devs to learn Python quickly|
+
 
 # Blogs, Conferences, and Media
