@@ -16,6 +16,10 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 # Resources for Python Developers
 
 
+|Name|Media|Topic|Description|
+|---|---|---|---|
+|[From Data Science to Production with Kotlin (O'Reilly)](https://www.safaribooksonline.com/library/view/from-data-science/9781491998205/)|Video|Kotlin|Trains Python data science professionals transitioning to Kotlin|
+|[Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Video|Kotlin|KotlinConf session explaining the merits of Kotlin for data science|
 
 # Resources for Kotlin Developers
 
