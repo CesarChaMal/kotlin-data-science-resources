@@ -13,11 +13,11 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |[Krangl](https://github.com/holgerbrandl/krangl)|Analytics|Kotlin (JVM)|[dplyr](https://github.com/tidyverse/dplyr)-like data frame wrangling for Kotlin|
 |[Koma](https://github.com/kyonifer/koma)|Computation|Kotlin (Multiplatform)|Scientific library for Kotlin with interop/multiplatform capabilities|
 
-# Resources for Python Developers to Learn Kotlin
+# Resources for Python Developers
 
 
 
-# Resources for Kotlin Developers to Learn Data Science
+# Resources for Kotlin Developers
 
 |Name|Media|Topic|Description|
 |---|---|---|---|
