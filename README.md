@@ -2,6 +2,8 @@
 ### Libraries, media, links, and other resources to use Kotlin for data science
 
 
+![](https://camo.githubusercontent.com/705d7144bcce5b0fcb68ea1bd563837bdf3398da/687474703a2f2f692e696d6775722e636f6d2f763346716945412e706e67)
+
 This document serves as an awesome-like curation of helpful links in using Kotlin for data science/data engineering purposes. Please feel free to put in PR's with other links you find helpful. 
 
 
@@ -56,4 +58,4 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |Name|Media|Description|
 |---|---|---|
 |[KotlinConf- Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Conference|Thomas Nield explains the merits of Kotlin for data science|
-|[KotlinConf - Kscript](https://www.youtube.com/watch?v=cOJPKhlRa8c)|Conference|THolger Brandl covers kscript for data science workflows|
+|[KotlinConf - Kscript](https://www.youtube.com/watch?v=cOJPKhlRa8c)|Conference|Holger Brandl covers kscript for data science workflows|
