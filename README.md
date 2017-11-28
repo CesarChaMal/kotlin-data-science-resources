@@ -52,3 +52,8 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |[Kotlin Slack](https://kotlinlang.slack.com/messages/C4W52CFEZ)|Slack|A Slack community of Kotlin developers. Join the #datascience channel|
 
 # Blogs, Press, Media
+
+|Name|Media|Description|
+|---|---|---|
+|[KotlinConf- Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Conference|Thomas Nield explains the merits of Kotlin for data science|
+|[KotlinConf - Kscript](https://www.youtube.com/watch?v=cOJPKhlRa8c)|Holger Brandl covers kscript for data science workflows|
