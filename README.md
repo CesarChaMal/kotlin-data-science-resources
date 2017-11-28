@@ -7,12 +7,24 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 
 # Kotlin Libraries
 
-|Library Name|Category|Platform|Description|
+|Library Name|Category|Description|
 |---|---|---|---|
-|[Kotlin-Statistics](https://github.com/thomasnield/kotlin-statistics)|Analytics|Kotlin (JVM)|Idiomatic statistical/analytical extension functions for Kotlin|
-|[Krangl](https://github.com/holgerbrandl/krangl)|Analytics|Kotlin (JVM)|[dplyr](https://github.com/tidyverse/dplyr)-like data frame wrangling for Kotlin|
-|[Koma](https://github.com/kyonifer/koma)|Computation|Kotlin (Multiplatform)|Scientific library for Kotlin with interop/multiplatform capabilities|
-|[Komputation](https://github.com/sekwiatkowski/komputation)|Neural Network|Kotlin (JVM)|Neural network platform for Kotlin|
+|[Kotlin-Statistics](https://github.com/thomasnield/kotlin-statistics)|Analytics|Idiomatic statistical/analytical extension functions for Kotlin|
+|[Krangl](https://github.com/holgerbrandl/krangl)|Analytics|[dplyr](https://github.com/tidyverse/dplyr)-like data frame wrangling for Kotlin|
+|[Koma](https://github.com/kyonifer/koma)|Computation|Scientific library for Kotlin with interop/multiplatform capabilities|
+|[Komputation](https://github.com/sekwiatkowski/komputation)|Neural Network|Neural network platform for Kotlin|
+
+
+#Java Libraries
+
+|Library Name|Category|Description|
+|---|---|---|
+|[ojAlgo!](http://www.ojalgo.org/)|LP and Optimization|Helpful library for linear/mixed optimization and linear algebra
+|[ND4J](http://nd4j.org/)|Computation|Efficient matrix math library for JVM|
+|[DeepLearning4J](https://deeplearning4j.org/)|Maching Learning|Deep learning library for Java|
+|[Apache Commons Math](http://commons.apache.org/proper/commons-math/)|Math/Statistics/ML|General math, statistics, and ML library for Java|
+|[OptaPlanner](https://www.optaplanner.org/)|Optimization|Solver utility for optimization planning problems|
+
 
 # Resources for Python Developers
 
@@ -38,3 +50,4 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |[PySlackers](https://pyslackers.com/)|Slack|A Slack community of Python developers and data science professionals. Go there and pick their brains for useful information.|
 |[Kotlin Slack](https://kotlinlang.slack.com/messages/C4W52CFEZ)|Slack|A Slack community of Kotlin developers. Join the #datascience channel|
 
+# Blogs, Press, Media
