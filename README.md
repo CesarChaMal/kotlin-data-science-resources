@@ -15,7 +15,8 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |[Komputation](https://github.com/sekwiatkowski/komputation)|Neural Network|Neural network platform for Kotlin|
 
 
-#Java Libraries
+
+# Java Libraries
 
 |Library Name|Category|Description|
 |---|---|---|
