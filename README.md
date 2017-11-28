@@ -12,6 +12,7 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |[Kotlin-Statistics](https://github.com/thomasnield/kotlin-statistics)|Analytics|Kotlin (JVM)|Idiomatic statistical/analytical extension functions for Kotlin|
 |[Krangl](https://github.com/holgerbrandl/krangl)|Analytics|Kotlin (JVM)|[dplyr](https://github.com/tidyverse/dplyr)-like data frame wrangling for Kotlin|
 |[Koma](https://github.com/kyonifer/koma)|Computation|Kotlin (Multiplatform)|Scientific library for Kotlin with interop/multiplatform capabilities|
+|[Komputation](https://github.com/sekwiatkowski/komputation)|Neural Network|Kotlin (JVM)|Neural network platform for Kotlin|
 
 # Resources for Python Developers
 
