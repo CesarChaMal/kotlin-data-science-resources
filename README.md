@@ -33,7 +33,8 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 
 # Communities
 
-|Name|Forum Platform|Description|
+|Name|Platform|Description|
 |---|---|---|
 |[PySlackers](https://pyslackers.com/)|Slack|A Slack community of Python developers and data science professionals. Go there and pick their brains for useful information.|
+|[Kotlin Slack](https://kotlinlang.slack.com/messages/C4W52CFEZ)|Slack|A Slack community of Kotlin developers. Join the #datascience channel|
 
