@@ -56,4 +56,4 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |Name|Media|Description|
 |---|---|---|
 |[KotlinConf- Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Conference|Thomas Nield explains the merits of Kotlin for data science|
-|[KotlinConf - Kscript](https://www.youtube.com/watch?v=cOJPKhlRa8c)|Holger Brandl covers kscript for data science workflows|
+|[KotlinConf - Kscript](https://www.youtube.com/watch?v=cOJPKhlRa8c)|Conference|THolger Brandl covers kscript for data science workflows|
