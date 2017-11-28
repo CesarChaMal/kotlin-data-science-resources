@@ -31,4 +31,9 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |[3Blue1Brown](http://www.3blue1brown.com/videos/)|Video|Math, ML, etc|Hours of visual videos demonstrating critical mathematical concepts|
 |[Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Video|Kotlin|KotlinConf session explaining the merits of Kotlin for data science|
 
-# Blogs, Conferences, and Media
+# Communities
+
+|Name|Forum Platform|Description|
+|---|---|---|
+|[PySlackers](https://pyslackers.com/)|Slack|A Slack community of Python developers and data science professionals. Go there and pick their brains for useful information.|
+
