@@ -26,6 +26,7 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |Name|Media|Topic|Description|
 |---|---|---|---|
 |[Python for the Busy Java Developer](https://gumroad.com/l/py4java)|eBook|Python|Helpful resource for Java devs to learn Python quickly|
+|[Data Science with Java (O'Reilly)](http://shop.oreilly.com/product/0636920043171.do)|Book|Data Science|Teaches data science for Java developers|
 |[3Blue1Brown](http://www.3blue1brown.com/videos/)|Video|Math, ML, etc|Hours of visual videos demonstrating critical mathematical concepts|
 |[Kotlin for Data Science](https://www.youtube.com/watch?v=J8GYPG6pt5w)|Video|Kotlin|KotlinConf session explaining the merits of Kotlin for data science|
 
