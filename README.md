@@ -15,7 +15,7 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |[Krangl](https://github.com/holgerbrandl/krangl)|Analytics|[dplyr](https://github.com/tidyverse/dplyr)-like data frame wrangling for Kotlin|
 |[Koma](https://github.com/kyonifer/koma)|Computation|Scientific library for Kotlin with interop/multiplatform capabilities|
 |[Komputation](https://github.com/sekwiatkowski/komputation)|Neural Network|Neural network platform for Kotlin|
-
+|[TornadoFX](https://github.com/edvin/tornadofx)|UI, Charts|Kotlin UI desktop app framework, built on top [JavaFX](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html)|
 
 
 # Java Libraries
