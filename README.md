@@ -27,7 +27,7 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 |[DeepLearning4J](https://deeplearning4j.org/)|Maching Learning|Deep learning library for Java|
 |[Apache Commons Math](http://commons.apache.org/proper/commons-math/)|Math/Statistics/ML|General math, statistics, and ML library for Java|
 |[OptaPlanner](https://www.optaplanner.org/)|Optimization|Solver utility for optimization planning problems|
-
+|[Charts](https://github.com/HanSolo/charts)|Charting|Scientific JavaFX charting library in development|
 
 # Resources for Python Developers
 
@@ -50,7 +50,7 @@ This document serves as an awesome-like curation of helpful links in using Kotli
 
 |Name|Platform|Description|
 |---|---|---|
-|[PySlackers](https://pyslackers.com/)|Slack|A Slack community of Python developers and data science professionals. Go there and pick their brains for useful information.|
+|[PySlackers](https://pyslackers.com/)|Slack|A Slack community of Python developers and data science professionals.|
 |[Kotlin Slack](https://kotlinlang.slack.com/messages/C4W52CFEZ)|Slack|A Slack community of Kotlin developers. Join the #datascience channel|
 
 # Blogs, Press, Media
